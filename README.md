@@ -32,7 +32,6 @@ o	Go to File > CAM Processor and configure the CAM jobs to generate Gerber files
 o	Verify the generated files to ensure they contain all necessary information for manufacturing.<br>
 	Save Manufacturing Files:<br>
 o	Save the Gerber files and any other required manufacturing files to send to your PCB manufacturer for fabrication.<br>
-
 # THEORY:
 The L298 is a dual H-Bridge motor driver IC that allows you to control two DC motors or a single stepper motor. It can drive motors with voltage up to 46V and current up to 2A per channel, hence it's suitable for medium-power applications.
 ### Key features of the L298:
@@ -66,16 +65,12 @@ o	When both inputs are the same, the motor stops.<br>
 # CIRCUIT DIAGRAM:
 ![image](https://github.com/user-attachments/assets/b463c844-3660-426e-8c6a-09600f6720df)
 # EXPECTED OUTPUT:
-### Schematic diagram
 
+### Schematic diagram
 ![Screenshot 2025-05-25 114332](https://github.com/user-attachments/assets/67aeda68-fef7-464b-a209-6b61245e86be)
 
-
-
 ### Layout diagram
-
 ![image](https://github.com/user-attachments/assets/83282f45-60ce-4498-9436-644f74557930)
-
 
 # RESULT:
 Thus, the schematic and PCB layout for the L298 2A Motor Driver Circuit has been successfully designed using Eagle software.
