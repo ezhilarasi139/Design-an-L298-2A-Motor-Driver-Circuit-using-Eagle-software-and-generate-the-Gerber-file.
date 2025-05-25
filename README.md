@@ -66,12 +66,15 @@ o	When both inputs are the same, the motor stops.<br>
 
 
 
+
+
 # CIRCUIT DIAGRAM:
 ![image](https://github.com/user-attachments/assets/b463c844-3660-426e-8c6a-09600f6720df)
 
 # EXPECTED OUTPUT:
 ### Schematic diagram
 ![Screenshot 2025-05-25 114332](https://github.com/user-attachments/assets/67aeda68-fef7-464b-a209-6b61245e86be)
+
 ### Layout diagram
 ![image](https://github.com/user-attachments/assets/83282f45-60ce-4498-9436-644f74557930)
 
