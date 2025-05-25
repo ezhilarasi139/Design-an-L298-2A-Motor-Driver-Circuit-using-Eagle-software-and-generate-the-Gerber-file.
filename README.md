@@ -3,9 +3,11 @@
 
 # AIM:
 To design the schematic and PCB layout diagram of an L298 2A Motor Driver Circuit using Eagle software.
+
 # EQUIPMENT REQUIRED:
 ●	Hardware: Personal Computer (PC)<br>
 ●	Software: Eagle
+
 # PROCEDURE:
 	Create a New Project:<br>
 o	Launch EAGLE and start a new project for your PCB design.<br>
@@ -33,8 +35,10 @@ o	Go to File > CAM Processor and configure the CAM jobs to generate Gerber files
 o	Verify the generated files to ensure they contain all necessary information for manufacturing.<br>
 	Save Manufacturing Files:<br>
 o	Save the Gerber files and any other required manufacturing files to send to your PCB manufacturer for fabrication.<br>
+
 # THEORY:
 The L298 is a dual H-Bridge motor driver IC that allows you to control two DC motors or a single stepper motor. It can drive motors with voltage up to 46V and current up to 2A per channel, hence it's suitable for medium-power applications.
+
 ### Key features of the L298:
 •	Dual full-bridge drivers (can control two motors independently)<br>
 •	TTL logic compatible inputs<br>
@@ -46,6 +50,7 @@ In the given circuit:
 •	U2 is a 7805 voltage regulator used to step down 12V to 5V for logic<br>
 •	C1 and C2 are electrolytic capacitors for filtering<br>
 •	D1 is an LED with resistor R1 for power indication<br>
+
 ### Working of the Circuit
 1.	Power Supply:<br>
 o	A 12V power source is connected to the circuit.<br>
@@ -64,17 +69,12 @@ o	If IN1 = HIGH and IN2 = LOW, motor 1 rotates in one direction.<br>
 o	Reversing the logic (IN1 = LOW, IN2 = HIGH) makes it rotate in the opposite direction.<br>
 o	When both inputs are the same, the motor stops.<br>
 
-
-
-
-
 # CIRCUIT DIAGRAM:
 ![image](https://github.com/user-attachments/assets/b463c844-3660-426e-8c6a-09600f6720df)
 
 # EXPECTED OUTPUT:
 ### Schematic diagram
 ![Screenshot 2025-05-25 114332](https://github.com/user-attachments/assets/67aeda68-fef7-464b-a209-6b61245e86be)
-
 ### Layout diagram
 ![image](https://github.com/user-attachments/assets/83282f45-60ce-4498-9436-644f74557930)
 
