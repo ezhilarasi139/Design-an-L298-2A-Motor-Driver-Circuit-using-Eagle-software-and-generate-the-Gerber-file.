@@ -69,7 +69,8 @@ o	When both inputs are the same, the motor stops.<br>
 
 # EXPECTED OUTPUT:
 ### Schematic diagram
-![image](https://github.com/user-attachments/assets/fb90fff4-42f6-4172-b649-df5f39e85330)
+![Screenshot 2025-05-25 114332](https://github.com/user-attachments/assets/67aeda68-fef7-464b-a209-6b61245e86be)
+
 
 ### Layout diagram
 ![image](https://github.com/user-attachments/assets/83282f45-60ce-4498-9436-644f74557930)
