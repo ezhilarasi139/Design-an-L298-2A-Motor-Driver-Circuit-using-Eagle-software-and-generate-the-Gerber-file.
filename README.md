@@ -63,11 +63,13 @@ o	The diodes connected across the motor output pins are for flyback protection. 
 o	If IN1 = HIGH and IN2 = LOW, motor 1 rotates in one direction.<br>
 o	Reversing the logic (IN1 = LOW, IN2 = HIGH) makes it rotate in the opposite direction.<br>
 o	When both inputs are the same, the motor stops.<br>
+
+
+
 # CIRCUIT DIAGRAM:
 ![image](https://github.com/user-attachments/assets/b463c844-3660-426e-8c6a-09600f6720df)
 
 # EXPECTED OUTPUT:
-
 ### Schematic diagram
 ![Screenshot 2025-05-25 114332](https://github.com/user-attachments/assets/67aeda68-fef7-464b-a209-6b61245e86be)
 ### Layout diagram
