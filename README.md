@@ -5,6 +5,7 @@
 To design the schematic and PCB layout diagram of an L298 2A Motor Driver Circuit using Eagle software.
 # EQUIPMENT REQUIRED:
 ●	Hardware: Personal Computer (PC)
+
 ●	Software: Eagle
 # PROCEDURE:
 	Create a New Project:<br>
