@@ -9,7 +9,7 @@ To design the schematic and PCB layout diagram of an L298 2A Motor Driver Circui
 ●	Software: Eagle
 # PROCEDURE:
 	Create a New Project:<br>
-o	Launch EAGLE and start a new project for your PCB design.<br>
+o	Launch EAGLE and start a new project for your PCB design.
 o	Within the project, create a new schematic file.<br>
 	Add Components:<br>
 o	Utilize the built-in libraries in EAGLE or create custom libraries if needed.<br>
